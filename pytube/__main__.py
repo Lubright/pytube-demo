@@ -24,6 +24,11 @@ from pytube.compat import parse_qsl
 from pytube.exceptions import VideoUnavailable
 from pytube.helpers import apply_mixin
 
+
+"""
+1. manual update thumbnail_url, title by Ben on 2019.10.1
+"""
+
 logger = logging.getLogger(__name__)
 
 
